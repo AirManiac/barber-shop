@@ -12,7 +12,7 @@ const artisans = [
     role: "Founder / Master Barber",
     number: "01",
     image:
-      "https://images.pexels.com/photos/5584458/pexels-photo-5584458.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "/marco-vale.jpg",
   },
   {
     name: "Julian Reed",
